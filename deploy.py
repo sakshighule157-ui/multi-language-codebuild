@@ -1,8 +1,8 @@
 import paramiko
 
-host = "EC2-IP"
+host = "43.205.242.217"
 
-username = "ec2-user"
+username = "Ubuntu"
 
 key = "pyy.pem"
 
